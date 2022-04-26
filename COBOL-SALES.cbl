@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. SALES.
-       AUTHOR.     PEGGY FISHER.
+       AUTHOR.    MARCELO GODOY
       ***************************************************************
       *  This program reads a file containing sales person yearly   *
       *   sales information and prints a report.                    *
